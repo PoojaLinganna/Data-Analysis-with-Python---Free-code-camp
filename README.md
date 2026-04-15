@@ -1,6 +1,6 @@
 ## Data Analyst Projects (FreeCodeCamp - Python)
 
-This repository contains 5 data analysis projects completed as part of the FreeCodeCamp Data Analyst with Python certification (300 hours).
+This repository contains 5 data analysis projects completed as part of the FreeCodeCamp Data Analyst with Python certification
 
 ### Projects:
 - Demographic Data Analysis
